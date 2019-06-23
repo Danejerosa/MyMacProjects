@@ -1,0 +1,11 @@
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/netcoreapp2.1/BinarySearchTree.deps.json
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/netcoreapp2.1/BinarySearchTree.runtimeconfig.json
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/netcoreapp2.1/BinarySearchTree.runtimeconfig.dev.json
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/netcoreapp2.1/BinarySearchTree.dll
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/netcoreapp2.1/BinarySearchTree.pdb
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/netcoreapp2.1/BinarySearchTree.csprojAssemblyReference.cache
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/netcoreapp2.1/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/netcoreapp2.1/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/netcoreapp2.1/BinarySearchTree.AssemblyInfo.cs
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/netcoreapp2.1/BinarySearchTree.dll
+/Users/dane/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/netcoreapp2.1/BinarySearchTree.pdb
