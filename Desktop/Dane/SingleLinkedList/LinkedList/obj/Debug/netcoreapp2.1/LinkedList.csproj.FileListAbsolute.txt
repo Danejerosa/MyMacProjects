@@ -1,0 +1,11 @@
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/LinkedList.deps.json
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/LinkedList.runtimeconfig.json
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/LinkedList.runtimeconfig.dev.json
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/LinkedList.dll
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/LinkedList.pdb
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/LinkedList.csprojAssemblyReference.cache
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/LinkedList.csproj.CoreCompileInputs.cache
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/LinkedList.AssemblyInfoInputs.cache
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/LinkedList.AssemblyInfo.cs
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/LinkedList.dll
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/LinkedList.pdb

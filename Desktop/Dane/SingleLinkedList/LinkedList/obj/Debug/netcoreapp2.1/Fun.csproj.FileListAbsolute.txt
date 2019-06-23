@@ -1,0 +1,11 @@
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/Fun.deps.json
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/Fun.runtimeconfig.json
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/Fun.runtimeconfig.dev.json
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/Fun.dll
+/Users/dane/Projects/Fun/Fun/bin/Debug/netcoreapp2.1/Fun.pdb
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/Fun.csprojAssemblyReference.cache
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/Fun.csproj.CoreCompileInputs.cache
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/Fun.AssemblyInfoInputs.cache
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/Fun.AssemblyInfo.cs
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/Fun.dll
+/Users/dane/Projects/Fun/Fun/obj/Debug/netcoreapp2.1/Fun.pdb
