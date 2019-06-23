@@ -1,0 +1,11 @@
+/Users/dane/Projects/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.1/AbstractClass.deps.json
+/Users/dane/Projects/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.1/AbstractClass.runtimeconfig.json
+/Users/dane/Projects/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.1/AbstractClass.runtimeconfig.dev.json
+/Users/dane/Projects/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.1/AbstractClass.dll
+/Users/dane/Projects/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.1/AbstractClass.pdb
+/Users/dane/Projects/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.1/AbstractClass.csprojAssemblyReference.cache
+/Users/dane/Projects/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.1/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/dane/Projects/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.1/AbstractClass.AssemblyInfoInputs.cache
+/Users/dane/Projects/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.1/AbstractClass.AssemblyInfo.cs
+/Users/dane/Projects/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.1/AbstractClass.dll
+/Users/dane/Projects/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.1/AbstractClass.pdb
