@@ -1,0 +1,11 @@
+/Users/dane/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp2.1/Palindrome.deps.json
+/Users/dane/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp2.1/Palindrome.runtimeconfig.json
+/Users/dane/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp2.1/Palindrome.runtimeconfig.dev.json
+/Users/dane/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp2.1/Palindrome.dll
+/Users/dane/Projects/Palindrome/Palindrome/bin/Debug/netcoreapp2.1/Palindrome.pdb
+/Users/dane/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp2.1/Palindrome.csprojAssemblyReference.cache
+/Users/dane/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp2.1/Palindrome.csproj.CoreCompileInputs.cache
+/Users/dane/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp2.1/Palindrome.AssemblyInfoInputs.cache
+/Users/dane/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp2.1/Palindrome.AssemblyInfo.cs
+/Users/dane/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp2.1/Palindrome.dll
+/Users/dane/Projects/Palindrome/Palindrome/obj/Debug/netcoreapp2.1/Palindrome.pdb
