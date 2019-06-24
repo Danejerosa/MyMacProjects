@@ -1,0 +1,11 @@
+/Users/dane/Projects/Twosum/Twosum/obj/Debug/netcoreapp2.1/Twosum.csprojAssemblyReference.cache
+/Users/dane/Projects/Twosum/Twosum/obj/Debug/netcoreapp2.1/Twosum.csproj.CoreCompileInputs.cache
+/Users/dane/Projects/Twosum/Twosum/obj/Debug/netcoreapp2.1/Twosum.AssemblyInfoInputs.cache
+/Users/dane/Projects/Twosum/Twosum/obj/Debug/netcoreapp2.1/Twosum.AssemblyInfo.cs
+/Users/dane/Projects/Twosum/Twosum/bin/Debug/netcoreapp2.1/Twosum.deps.json
+/Users/dane/Projects/Twosum/Twosum/bin/Debug/netcoreapp2.1/Twosum.runtimeconfig.json
+/Users/dane/Projects/Twosum/Twosum/bin/Debug/netcoreapp2.1/Twosum.runtimeconfig.dev.json
+/Users/dane/Projects/Twosum/Twosum/bin/Debug/netcoreapp2.1/Twosum.dll
+/Users/dane/Projects/Twosum/Twosum/bin/Debug/netcoreapp2.1/Twosum.pdb
+/Users/dane/Projects/Twosum/Twosum/obj/Debug/netcoreapp2.1/Twosum.dll
+/Users/dane/Projects/Twosum/Twosum/obj/Debug/netcoreapp2.1/Twosum.pdb
