@@ -1,0 +1,11 @@
+/Users/dane/Projects/ReverseInt/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.deps.json
+/Users/dane/Projects/ReverseInt/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.runtimeconfig.json
+/Users/dane/Projects/ReverseInt/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.runtimeconfig.dev.json
+/Users/dane/Projects/ReverseInt/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.dll
+/Users/dane/Projects/ReverseInt/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.pdb
+/Users/dane/Projects/ReverseInt/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.csprojAssemblyReference.cache
+/Users/dane/Projects/ReverseInt/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.csproj.CoreCompileInputs.cache
+/Users/dane/Projects/ReverseInt/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.AssemblyInfoInputs.cache
+/Users/dane/Projects/ReverseInt/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.AssemblyInfo.cs
+/Users/dane/Projects/ReverseInt/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.dll
+/Users/dane/Projects/ReverseInt/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.pdb
